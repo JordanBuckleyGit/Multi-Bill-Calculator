@@ -20,7 +20,7 @@ Welcome to the Bill Calculator Program! This Python script offers a versatile se
 
 ## Contributors
 
-- [matheustecchio]((https://github.com/matheustecchio))
+- [matheustecchio]([https://github.com/matheustecchio])
 
 ## License
 
