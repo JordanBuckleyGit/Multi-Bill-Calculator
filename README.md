@@ -1,4 +1,4 @@
-# Bill Calculator Program
+# 💰Bill Calculator Program
 
 Welcome to the Bill Calculator Program! This Python script offers a versatile set of bill calculators to streamline your financial management. Whether you're calculating all of your home taxes, this program has you covered.
 
@@ -20,7 +20,7 @@ Welcome to the Bill Calculator Program! This Python script offers a versatile se
 
 ## Contributors
 
-@matheustecchio
+- [matheustecchio]((https://github.com/matheustecchio))
 
 ## License
 
